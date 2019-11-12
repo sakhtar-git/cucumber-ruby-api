@@ -17,6 +17,7 @@ ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-darwin14]
 #### Steps to install gems
  * create Gemfile
  * $ bundle install
+
 In case you experience any issue in installing gem rest-client / unf_ext ( make: g++: Command not found ), please run this 
                           $ sudo apt-get install build-essential
  * Gemfile.lock is created.
