@@ -20,6 +20,18 @@ ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-darwin14]
  * Gemfile.lock is created.
  * Make sure gems are installed. $ gem list 
 
+The automation framework designed to support web UI test is structured as follows:
+```  |-- config
+           |-- sandbox_env.json
+     |-- features
+           |- step_definitions
+                |-- demo_test_steps.rb
+           |- support
+                |-- env.rb
+                |-- master.rb
+           |- demo_test.feature
+     |-- Gemfile      
+```
 ### Run test
 * Go to the directory project directory
 * Run "$ cucumber -t@demo-test" on the terminal (tests are tagged as demo-test)
