@@ -1,0 +1,8 @@
+{
+  "env": "qa",
+  "tms": {
+    "url": "https://api.tmsandbox.co.nz/v1",
+    "api": "/Categories/",
+    "param":"/Details.json?catalogue=false"
+  }
+}
