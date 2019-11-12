@@ -21,7 +21,8 @@ ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-darwin14]
  * Make sure gems are installed. $ gem list 
 
 The automation framework designed to support web UI test is structured as follows:
-```  |-- config
+```  
+     |-- config
            |-- sandbox_env.json
      |-- features
            |- step_definitions
