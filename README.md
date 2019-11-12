@@ -1,6 +1,6 @@
 # cucumber-ruby-example
 
-Developed a API test framework in cucumber + rest-client + Ruby for API testing. 
+Developed a test framework in cucumber + rest-client + Ruby for API testing. 
 
 ## Install Dependencies
 
