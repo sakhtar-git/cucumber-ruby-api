@@ -42,3 +42,8 @@ The automation framework designed to support web UI test is structured as follow
 * Or "cucumber -t@demo-test --format json_pretty"
 * Observe the output of the test run
 * Cuke CLI can be easily integerated with Jenkins (CI/CD) tools
+
+```
+```
+
+
