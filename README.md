@@ -1,4 +1,4 @@
-# cucumber-ruby-example
+# cucumber-ruby-rest-client
 
 Developed a test framework in cucumber + rest-client + Ruby for API testing. 
 
