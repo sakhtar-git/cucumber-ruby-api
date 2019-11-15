@@ -1,4 +1,4 @@
-Feature: TMS APIs
+Feature: TM NZ APIs
 
     @demo-test
   Scenario Outline: Verify Category Details API for TMS
